@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VasudevSenapati
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Learning new technology, looking into amazing code here
 - 🌱 I’m currently learning XR and creating fun stuff with Python
 - 💞️ I’m looking to collaborate on Interesting projects
 - 📫 How to reach me @ vasudevsenapati33@gmail.com
